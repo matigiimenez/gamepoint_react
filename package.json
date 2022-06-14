@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_gimenez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matigiimenez/gamepoint_react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matigiimenez/gamepoint_react/issues"
+  },
+  "homepage": "https://github.com/matigiimenez/gamepoint_react#readme"
+}
