@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(78, 47, 78);
+    padding: 25px;
+}
+img{
+    height: 150px;
+    width: 190px;
+}
+.carrito{
+    height: 5%;
+    width: 5%;
+    margin-top: 35px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+h1{
+    font-size: 50px;
+    color: chartreuse;
+}
+a{
+    text-decoration: none;
+    color: aquamarine;
+    margin: 5px;
+}

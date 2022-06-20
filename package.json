@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matigiimenez/gamepoint_react/issues"
   },
-  "homepage": "https://github.com/matigiimenez/gamepoint_react#readme"
+  "homepage": "https://github.com/matigiimenez/gamepoint_react#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
