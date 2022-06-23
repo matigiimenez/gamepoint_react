@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/matigiimenez/gamepoint_react#readme",
   "dependencies": {
+    "@mui/icons-material": "^5.8.4",
+    "react-icons": "^4.4.0",
     "react-scripts": "^5.0.1"
   }
 }

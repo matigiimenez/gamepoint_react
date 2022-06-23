@@ -1,6 +1,10 @@
 import logo from '../../imagenes/logogamepoint.jpg'
 import carrito from '../../imagenes/carrito-de-compras.png'
 import './NavBar.css'
+import { AiOutlineShoppingCart } from "react-icons/ai";
+
+
+
 
 const NavBar = () => {
     return (
@@ -12,7 +16,9 @@ const NavBar = () => {
                 <a href="">Productos</a>
                 <a href="">Nosotros</a>
             </nav>
-            <img className='carrito' src={carrito} alt="" />
+            <AiOutlineShoppingCart size="9em" color="blue"></AiOutlineShoppingCart>
+
+
         </header>
     )
 
