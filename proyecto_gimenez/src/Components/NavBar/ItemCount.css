@@ -1,0 +1,19 @@
+.contador{
+    display: flex;
+    gap: 6px;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+.contador__p{
+    font-size: 1em;
+    margin: 5px;
+}
+
+.boton__comprar{
+    color: white;
+    background-color: rgb(95, 95, 207);
+    margin: 5px;
+    font-size: 20px;
+}
