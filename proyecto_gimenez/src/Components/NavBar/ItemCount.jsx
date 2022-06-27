@@ -1,7 +1,6 @@
 import React, {useState} from 'react'
 import './ItemCount.css'
 
-//contador !<1 >stock 
 
 const ItemCount = ({stock}) => {  
   const [cuenta, setCuenta] = useState(1)
@@ -20,14 +19,15 @@ const ItemCount = ({stock}) => {
   }
 
   return (
-    <>
+    <div className='div'>
+    <h3>Monitor 144hz</h3>
     <div className='contador'>
       <button onClick={restar}>-</button>
       <p className='contador__p'>{cuenta}</p>
       <button onClick={sumar}>+</button>
     </div>
     <button className='boton__comprar' onClick={onAdd}>Comprar</button>
-    </>
+    </div>
   )
 }
 

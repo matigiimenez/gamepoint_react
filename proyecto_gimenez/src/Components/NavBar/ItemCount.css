@@ -1,8 +1,9 @@
 .contador{
-    display: flex;
     gap: 6px;
     padding: 5px;
-    margin: 5px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
 
 }
 
@@ -17,3 +18,9 @@
     margin: 5px;
     font-size: 20px;
 }
+
+.div{
+    text-align: center;
+}
+
+
