@@ -17,8 +17,15 @@
   },
   "homepage": "https://github.com/matigiimenez/gamepoint_react#readme",
   "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
     "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.8.7",
+    "bootstrap": "^5.1.3",
+    "react-bootstrap": "^2.4.0",
     "react-icons": "^4.4.0",
-    "react-scripts": "^5.0.1"
+    "react-loader-spinner": "^5.1.5",
+    "react-scripts": "^5.0.1",
+    "react-spinners": "^0.13.3"
   }
 }

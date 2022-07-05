@@ -1,0 +1,23 @@
+.card{
+    display: inline-block;
+    border-radius:8px;
+    box-shadow:02px 2px rgba(0,0,0,0.2);
+    margin:20px;
+    text-align: center;
+}
+
+.title{
+    color: brown;
+    font-size: xx-large;
+}
+
+.price{
+    color: cadetblue;
+    font-size: large;
+}
+
+.reload{
+    display: flex;
+    justify-content: center;
+    margin-top: 10em;
+}
